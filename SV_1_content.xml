@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<translation>
+	<slide>
+		<screen>screenshots/SV_1_part1/1.png</screen>
+		<text>ПЕРВЫЙ СЛАЙД - ТЕКСТ !</text>
+	</slide>
+	<slide>
+		<screen>screenshots/SV_1_part1/2.png</screen>
+		<text>ВТОРОЙ СЛАЙД - ТЕКСТ !</text>	
+	</slide>
+	<slide>
+		<screen>screenshots/SV_1_part1/3.png</screen>
+		<text>ТРЕТИЙ СЛАЙД - ТЕКСТ !</text>	
+	</slide>
+</translation>
