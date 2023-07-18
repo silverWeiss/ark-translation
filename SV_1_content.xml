@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-<translation>
 	<slide id ="1" screen="screenshots/SV_1_part1/1.png" text="ПЕРВЫЙ СЛАЙД - ТЕКСТ !">
 	</slide>
 	<slide id ="2" screen="screenshots/SV_1_part1/2.png" text="ВТОРОЙ СЛАЙД - ТЕКСТ !">
 	</slide>
 	<slide id ="3" screen="screenshots/SV_1_part1/3.png" text="ТРЕТИЙ СЛАЙД - ТЕКСТ !">
 	</slide>
-</translation>
