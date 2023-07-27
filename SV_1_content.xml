@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<translation>
+<translation path="https://drive.google.com/drive/folders/1HtOAdq7EcTby8lUCW0HGoA6ZaLXEn668?usp=sharing">
 	<slide>
 		<id>1</id>
-		<screen>screenshots/SV_1_part1/1.png</screen>
+		<screen>https://drive.google.com/file/d/16vFbdceUx1ZzmxBOOjDJs96N1J39NEDA/view?usp=drive_link</screen>
 		<text>ПЕРВЫЙ СЛАЙД - ТЕКСТ !</text>
 	</slide>
-	<slide id ="2" screen="screenshots/SV_1_part1/2.png" text="ВТОРОЙ СЛАЙД - ТЕКСТ !">
+	<slide>
 		<id>2</id>
-		<screen>screenshots/SV_1_part1/2.png</screen>
+		<screen>https://drive.google.com/file/d/1UfEZwzL04mfEiJUo6sluLrOeCyxlKbNq/view?usp=drive_link</screen>
 		<text>ВТОРОЙ СЛАЙД - ТЕКСТ !</text>
 	</slide>
-	<slide id ="3" screen="screenshots/SV_1_part1/3.png" text="ТРЕТИЙ СЛАЙД - ТЕКСТ !">
+	<slide>
 		<id>3</id>
-		<screen>screenshots/SV_1_part1/3.png</screen>
+		<screen>https://drive.google.com/file/d/1bynRNEwR5aNAQMImBdsK4Iv5pgd5sRW1/view?usp=drive_link</screen>
 		<text>ТРЕТИЙ СЛАЙД - ТЕКСТ !</text>
 	</slide>
 </translation>
